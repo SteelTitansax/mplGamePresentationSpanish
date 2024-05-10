@@ -1,4 +1,4 @@
-# mplGamePresentation
+# mplGamePresentation (Spanish version)
 presentation game as cover letter to present my porfolios
 ## Here you can find the different porfolios that I've been working with during my career.
 
